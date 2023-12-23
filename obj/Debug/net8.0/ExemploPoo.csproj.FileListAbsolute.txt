@@ -1,0 +1,15 @@
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\bin\Debug\net8.0\ExemploPoo.exe
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\bin\Debug\net8.0\ExemploPoo.deps.json
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\bin\Debug\net8.0\ExemploPoo.runtimeconfig.json
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\bin\Debug\net8.0\ExemploPoo.dll
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\bin\Debug\net8.0\ExemploPoo.pdb
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.AssemblyInfoInputs.cache
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.AssemblyInfo.cs
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.csproj.CoreCompileInputs.cache
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.sourcelink.json
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.dll
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\refint\ExemploPoo.dll
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.pdb
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ExemploPoo.genruntimeconfig.cache
+C:\Projetos\trilha-net-fundamentos-desafio\ExemploPoo\obj\Debug\net8.0\ref\ExemploPoo.dll
